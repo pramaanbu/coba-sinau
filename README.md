@@ -1,2 +1,5 @@
 # coba-sinau
-belajar git
+
+this personal cv
+just for learning
+using bootstrap 5
