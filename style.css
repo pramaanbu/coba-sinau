@@ -1,4 +1,8 @@
 .jumbotron {
-  padding-top: 2rem ;
+  padding-top: 2rem;
+  background-color: rgb(237, 240, 83);
+}
+.contact {
+  padding-top: 2rem;
   background-color: rgb(237, 240, 83);
 }
